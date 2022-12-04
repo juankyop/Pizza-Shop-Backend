@@ -1,5 +1,3 @@
-<p style="text-align: center;"> Arias Jiménez, Carlos  </p>
-
 # Pizza-Shop Backend
 
 This document provided a brief introduction to the concepts required to properly understand and develop a Backend in Spring Boot. The Backend has been developed in the CapGemini Bootcamp, comprising the first six weeks of it. The development took place under the Spring Boot framework, which allows the developers to:
